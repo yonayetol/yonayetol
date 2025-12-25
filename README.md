@@ -1,16 +1,19 @@
 <div align="center">
 
-# Hi there, I'm Yonas! 👋
+# Hi there, I'm Yonas Ayele! 👋
 
 <!-- Typing SVG effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Full+Stack+Developer;Loves+Always+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Introduction Text -->
-I'm a developer passionate about building accessible and performant web applications.
+I'm a Computer Science Student at Addis Ababa University.
+<br/>
+Interested in **Artificial Intelligence** and building web-apps.
+<br/>
 Welcome to my GitHub profile!
 
 <br/>
@@ -23,19 +26,18 @@ Welcome to my GitHub profile!
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonayetol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<br/>
-
-<!-- Streak Stats -->
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonayetol&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
-
 </div>
 
 <hr/>
 
+### 👨‍💻 About Me
+- **Name**: Yonas Ayele
+- **Gender**: Male
+- **Education**: Computer Science Student at Addis Ababa University
+- **Contact**: 0926859567
+
 ### 🛠️  Tech Stack
-<!-- Icons for languages/tools. You can add more from: https://github.com/devicons/devicon -->
+<!-- Icons for languages/tools -->
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,10 +46,14 @@ Welcome to my GitHub profile!
 </p>
 
 ### 📫 Connect with me
-<!-- Replace the # with your actual profile links -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+<p align="left">
+  <a href="mailto:yonasayeletola62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yonas-ayele-9b9123288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yonayetol">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
