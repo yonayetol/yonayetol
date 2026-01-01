@@ -1,59 +1,25 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Yona Yetol</h1>
+<h3 align="center">A passionate developer from Ethiopia</h3>
 
-# Hi there, I'm Yonas Ayele! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonayetol&label=Profile%20views&color=0e75b6&style=flat" alt="yonayetol" /> </p>
 
-<!-- Typing SVG effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Full+Stack+Developer;Loves+Always+Learning" alt="Typing SVG" />
-</a>
+- 🔭 I’m currently working on **Something cool**
 
-<br/>
+- 🌱 I’m currently learning **Next.js**
 
-<!-- Introduction Text -->
-I'm a Computer Science Student at Addis Ababa University.
-<br/>
-Interested in **Artificial Intelligence** and building web-apps.
-<br/>
-Welcome to my GitHub profile!
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-<br/>
+- 💬 Ask me about **React, Node.js**
 
-<!-- Dynamic Stats Cards (Dark Mode Theme) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yonayetol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonayetol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+- 📫 How to reach me **yonayetol@gmail.com**
 
-</div>
-
-<hr/>
-
-### 👨‍💻 About Me
-- **Name**: Yonas Ayele
-- **Gender**: Male
-- **Education**: Computer Science Student at Addis Ababa University
-- **Contact**: 0926859567
-
-### 🛠️  Tech Stack
-<!-- Icons for languages/tools -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<a href="https://twitter.com/yonayetol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yonayetol" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yonayetol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonayetol" height="30" width="40" /></a>
 </p>
 
-### 📫 Connect with me
-<p align="left">
-  <a href="mailto:yonasayeletola62@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yonas-ayele-9b9123288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/yonayetol">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<p><img src="https://media.giphy.com/media/qgQUggAC3Pxp68h1Z9/giphy.gif" width="500" alt="Coding GIF" /></p>
