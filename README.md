@@ -66,7 +66,7 @@ I am trying to be an engineer who can design, build, and deliver intelligent pro
 ## Connect
 
 - LinkedIn: <a href="https://linkedin.com/in/yonayetol">linkedin.com/in/yonayetol</a>
-- X (Twitter): <a href="https://twitter.com/yonayetol">@yonayetol</a>
+- Github: <a href="https://github.com/yonayetol/">@yonayetol</a>
 - Email: <a href="mailto:yonasayeletola62@gmail.com">yonasayeletola62@gmail.com</a>
 
 ---
